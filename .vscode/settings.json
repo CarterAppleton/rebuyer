@@ -1,0 +1,16 @@
+{
+  "solidity.defaultCompiler": "remote",
+  "solidity.compileUsingRemoteVersion": "v0.8.28+commit.7893614a",
+  "solidity.monoRepoSupport": false,
+  "solidity.formatter": "forge",
+  "solidity.linter": "solhint",
+
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+
+  "solidity.packageDefaultDependenciesContractsDirectory": "src",
+  "solidity.packageDefaultDependenciesDirectory": "dependencies",
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  }
+}
